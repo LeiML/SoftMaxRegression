@@ -1,0 +1,3 @@
+# SoftMaxRegression
+softmax回归实现多分类
+使用自定义的矩阵类实现softmax多分类的逻辑回归
